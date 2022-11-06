@@ -1,4 +1,4 @@
-# Small-Hospital-System
+# Mini-Hospital-System
 Console application project 
 
 ## Main functions
